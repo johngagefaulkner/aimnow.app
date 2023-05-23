@@ -1,0 +1,2 @@
+AIMNow.app **/** Data
+
